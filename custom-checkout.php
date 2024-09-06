@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Custom Checkout
+ * Plugin Name: Custom Checkout Plugin 
  * Description: A custom checkout shortcode for WooCommerce.
  * Version: 1.0
  * Author: Pankaj Sharma 
